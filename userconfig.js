@@ -18,5 +18,5 @@ const GLOBAL_CONFIG = new Config({
       w: ['https://en.wikipedia.org/w/index.php?search=', 'Wikipedia']
     }
   },
-  disabled: []
+  disabled: ['todo-list']
 });
