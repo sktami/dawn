@@ -1,6 +1,6 @@
 const GLOBAL_CONFIG = new Config({
   crypto: {
-    coin: 'SPY',
+    coin: 'BTC',
     currency: 'USD',
     refreshIn: 10
   },
