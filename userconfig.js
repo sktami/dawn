@@ -18,5 +18,5 @@ const GLOBAL_CONFIG = new Config({
       w: ['https://en.wikipedia.org/w/index.php?search=', 'Wikipedia']
     }
   },
-  disabled: ['todo-list']
+  disabled: ['todo-list', 'crypto-rate']
 });
